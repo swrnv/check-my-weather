@@ -2,6 +2,10 @@
 
 ![Screen-Recording-_11-07-2021-22-04-45_](https://user-images.githubusercontent.com/64857573/125426293-3eb43b02-9bb6-4a84-82e1-5ce76e6f0151.gif)
 
+# Api - [Open Weather Map API](https://openweathermap.org/)
+
+
+
 
 # Getting Started with Create React App
 
